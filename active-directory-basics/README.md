@@ -170,16 +170,3 @@ Trust relationships allow users from one domain to access resources located in a
 ## Lab Completion
 
 Successfully completed the TryHackMe **Active Directory Basics** room and gained practical exposure to Active Directory administration and enterprise identity management concepts.
-
----
-
-## Screenshot
-
-*Add your room completion screenshot here.*
-
-Example:
-
-```text
-/screenshots/active-directory-basics-completion.png
-```
-
